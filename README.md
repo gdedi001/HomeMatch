@@ -22,7 +22,7 @@ HomeMatch is an AI-driven application that transforms the real estate search exp
 - **Framework:** [LangChain](https://www.langchain.com/)  
 - **Vector Database:** [ChromaDB](https://www.trychroma.com/) with `OpenAIEmbeddings`  
 - **Data Processing:** `pandas` for CSV ingestion & formatting  
-- **Environment:** Jupyter Notebook (`HomeMatch.ipynb`) + optional Python script (`HomeMatch.py`)  
+- **Environment:** Jupyter Notebook (`HomeMatch.ipynb`)
 
 ---
 
